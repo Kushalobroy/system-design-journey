@@ -1,7 +1,6 @@
 # 🚀 System Design Journey
 
 This repository documents my journey of learning and practicing **System Design and Distributed Systems**.
-
 The goal of this repository is to build a strong understanding of designing **scalable, reliable, and production-grade systems**, similar to those used in large-scale tech companies.
 
 ---
